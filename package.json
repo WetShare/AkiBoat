@@ -1,0 +1,22 @@
+{
+  "name": "rainy-aki-bot",
+  "version": "1.0.0",
+  "description": "Rainy's Aki Bot",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "aki-api": "^6.0.8",
+    "discord.js": "^14.0.2",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": ">=16.9"
+  },
+  "license": "MIT"
+}
+
+
